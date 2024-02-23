@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echamale-2022222&label=Profile%20views&color=0e75b6&style=flat" alt="echamale-2022222" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echamale-2022222" alt="echamale-2022222" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, NodeJS, MongoDB, SQLServer, PostgreSQL**
 
 - 📫 How to reach me **echamale018@gmail.com, echamale-2022222@kinal.edu.gt**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=echamale-2022222&show_icons=true&locale=en&layout=compact" alt="echamale-2022222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echamale-2022222&show_icons=true&locale=en" alt="echamale-2022222" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echamale-2022222&" alt="echamale-2022222" /></p>
