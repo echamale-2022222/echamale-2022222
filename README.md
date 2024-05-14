@@ -22,6 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echamale-2022222&" alt="echamale-2022222" /></p>
 
 <p align="center">
- <img width="1000" src="assets/git-hub." alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
