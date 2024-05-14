@@ -20,3 +20,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echamale-2022222&show_icons=true&locale=en&layout=compact" alt="echamale-2022222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echamale-2022222&" alt="echamale-2022222" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/git-hub." alt="snake"/>
+</p>
+
